@@ -1,0 +1,20 @@
+# Task 1 - Population Data Visualization
+
+✅ Internship Track: Data Science  
+✅ Task Code: PRODIGY_DS_01  
+✅ Task Title: Create a Bar Chart or Histogram  
+✅ Description:  
+This task focuses on visualizing population data using the World Bank dataset. I created a bar chart of the top 10 most populated countries in 2019 using Python (Pandas, Matplotlib, and Seaborn).
+
+## 📊 Output Sample:
+- Bar Chart for top 10 countries by population (2019)
+- Histogram for population distribution
+
+## 📁 Dataset:
+[World Bank Population Dataset](https://github.com/Prodigy-InfoTech/data-science-datasets/tree/main/Task%201)
+
+## 💻 Tools Used:
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
